@@ -252,7 +252,7 @@
         <div class="max-w-3xl mx-auto bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl p-8 text-white text-center">
           <h2 class="text-3xl font-bold mb-4">Ready to start your next project?</h2>
           <p class="text-lg mb-6">Let's work together to create a digital solution that drives real results for your business.</p>
-          <a-button type="primary" ghost size="large" @click="$router.push('/contact')">Start a Conversation</a-button>
+          <a-button ghost size="large" @click="$router.push('/contact')">Start a Conversation</a-button>
         </div>
       </section>
     </div>

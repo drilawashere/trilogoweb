@@ -145,7 +145,6 @@
                 <h3 class="text-xl font-semibold mb-3">Want to See Detailed Case Studies?</h3>
                 <p class="mb-4 text-blue-100">Learn exactly how we achieved these results and how we can do the same for your business.</p>
                 <a-button 
-                  type="primary" 
                   ghost 
                   size="large"
                   @click="$router.push(`/case-study/${solution.id}`)"
