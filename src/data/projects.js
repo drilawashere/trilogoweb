@@ -77,7 +77,7 @@ export const businessSolutions = [
   },
   {
     id: "financial-analytics-solution",
-    title: "Business Intelligence & Analytics Platform",
+    title: "Business Intelligence & Analytics",
     summary: "Make data-driven decisions with comprehensive business analytics and reporting.",
     description: "Transform raw business data into actionable insights. Perfect for businesses that struggle to understand their performance metrics and make informed decisions based on scattered data sources.",
     category: "Business Intelligence",

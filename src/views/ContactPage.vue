@@ -25,7 +25,7 @@
                   </div>
                   <div>
                     <h3 class="font-semibold text-gray-900">Email</h3>
-                    <p class="text-gray-600">contact@yourportfolio.com</p>
+                    <p class="text-gray-600">trilogoweb@gmail.com</p>
                   </div>
                 </div>
                 
@@ -35,7 +35,7 @@
                   </div>
                   <div>
                     <h3 class="font-semibold text-gray-900">Phone</h3>
-                    <p class="text-gray-600">+1 (555) 123-4567</p>
+                    <p class="text-gray-600">+383 49 286-116</p>
                   </div>
                 </div>
                 
@@ -45,7 +45,7 @@
                   </div>
                   <div>
                     <h3 class="font-semibold text-gray-900">Location</h3>
-                    <p class="text-gray-600">San Francisco, CA</p>
+                    <p class="text-gray-600">Pristina, Kosovo</p>
                   </div>
                 </div>
               </div>
