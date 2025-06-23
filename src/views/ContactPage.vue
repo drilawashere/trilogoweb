@@ -140,9 +140,9 @@
                   <a-slider
                     v-model:value="formState.budget"
                     :marks="budgetMarks"
-                    :min="1000"
-                    :max="50000"
-                    :step="1000"
+                    :min="500"
+                    :max="10000"
+                    :step="200"
                   />
                 </a-form-item>
                 
@@ -267,10 +267,10 @@ const formState = reactive({
 });
 
 const budgetMarks = {
+  500: '500',
   1000: '1K',
-  10000: '10K',
-  25000: '25K',
-  50000: '50K'
+  5000: '5K',
+  10000: '10K'
 };
 
 const submitting = ref(false);
